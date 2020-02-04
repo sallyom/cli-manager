@@ -1,0 +1,7 @@
+domain: operator.openshift.io
+repo: github.com/openshift/cli-manager
+resources:
+- group: operator.openshift.io
+  kind: CliManager
+  version: v1beta1
+version: "2"
